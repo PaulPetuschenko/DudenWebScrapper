@@ -1,6 +1,6 @@
 Duden web scrapper app created using BS4 and route with python V3.7
 
-<ul>Currently following data can be parsed:
+Currently following data can be parsed:
   <li>Word and word prefix
   <li>Wordart
   <li>Meaning
