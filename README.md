@@ -1,4 +1,4 @@
-Duden web scrapper app created using BS4 and route with python V3.7
+Duden web scrapper app created using BS4 and Route with python V3.7
 
 Currently following data can be parsed:
   <li>Word and word prefix
