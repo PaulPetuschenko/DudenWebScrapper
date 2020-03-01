@@ -5,3 +5,5 @@ Currently following data can be parsed:
   <li>Wordart
   <li>Meaning
   <li>Frequency of usage
+
+Can be usefull for scrapping info to Data Lake
